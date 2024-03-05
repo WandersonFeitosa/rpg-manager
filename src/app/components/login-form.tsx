@@ -1,4 +1,3 @@
-"use client";
 import Image from "next/image";
 import styles from "../auth/auth.module.scss";
 import discordLogo from "../../../public/assets/img/discord-logo.svg";

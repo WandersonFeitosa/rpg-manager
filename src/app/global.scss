@@ -24,21 +24,23 @@ $blue-500: #3f4ef7;
 
 //set global variables for colors
 :root {
-  --fs-base: #{$fs-base};
-  --gray: #{$gray};
-  --gray-100: #{$gray-100};
-  --gray-300: #{$gray-300};
-  --gray-400: #{$gray-400};
-  --gray-600: #{$gray-600};
-  --gray-700: #{$gray-700};
-  --gray-900: #{$gray-900};
-  --white: #{$white};
-  --green-300: #{$green-300};
-  --green-500: #{$green-500};
-  --red-400: #{$red-400};
-  --red-500: #{$red-500};
-  --blue-400: #{$blue-400};
-  --blue-500: #{$blue-500};
+  --fs-base: 16px;
+  --gray: #f2f0f0;
+  --gray-100: #e1e1e6;
+  --gray-300: #c4c4cc;
+  --gray-400: #8d8d99;
+  --gray-600: #323238;
+  --gray-700: #29292e;
+  --gray-900: #121214;
+  --white: #fff;
+  --green-300: #00b37e;
+  --green-500: #00875f;
+  --red-400: #c53f05;
+  --red-500: #f75a68;
+  --blue-400: #4e59d7;
+  --blue-500: #3f4ef7;
+  --yellow-500: #f7c948;
+  
 }
 
 // Classes
